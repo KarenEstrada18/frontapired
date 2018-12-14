@@ -1,0 +1,1 @@
+export default{ url : "https://b25apired.herokuapp.com/api/v1/post"}
